@@ -1,4 +1,4 @@
-import { atributesModel } from '../models/atributesSchema.js';
+import { atributesModel } from '../models/playerSchema.js';
 
 const findAll = async (req, res) => {
  
